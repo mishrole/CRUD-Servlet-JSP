@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="T4FN_Evaluación_2_Rodríguez_León_Mitchell">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="T4FN_Evaluación_2_Rodríguez_León_Mitchell"/>
+        <property name="java-output-path" value="/T4FN_Evaluación_2_Rodríguez_León_Mitchell/build/classes"/>
+    </wb-module>
+</project-modules>
